@@ -1,9 +1,3 @@
----
-layout: page
-title: 关于我
-permalink: /about/
----
-
 # 👋 你好，我是 [石荣群]
 
 > 💡 一些关于我的关键词：Python ｜ 量化交易 ｜ AI 应用开发
